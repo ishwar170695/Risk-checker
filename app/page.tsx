@@ -235,7 +235,7 @@ export default function Home() {
 
 
       <footer className="footer">
-        <p>“Free demo version. Depth and future checks may be added.”</p>
+        <p>Free demo version. Depth and future checks may be added.</p>
         <p style={{ marginTop: '0.5rem' }}>This tool does not deploy apps, estimate exact costs, or replace DevOps.</p>
       </footer>
 
